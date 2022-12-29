@@ -4,7 +4,7 @@
 
 # Bem-vindos ao meu perfil do GitHub!
 
-_Eu não tenho muitos projetos open-source._ <img align='right'src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnedev&hide=html&layout=compact=true&theme=radical">
+_Eu não tenho muitos projetos open-source._ <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnedev&hide=html&layout=compact=true&theme=radical">
 
 # Skills
 
@@ -22,4 +22,9 @@ _Eu não tenho muitos projetos open-source._ <img align='right'src="https://gith
 
 
 
-<img align='center' src="https://lanyard.cnrad.dev/api/931623257277350008">
+<p>
+
+Meu Discord é ->
+Caso necessite de ajuda
+
+</p> <img align='center' src="https://lanyard.cnrad.dev/api/931623257277350008">
