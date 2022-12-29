@@ -4,7 +4,7 @@
 
 # Bem-vindos ao meu perfil do GitHub!
 
-_Eu não tenho muitos projetos open-source._
+_Eu não tenho muitos projetos open-source._ <img align='right'src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynnedev&hide=html&layout=compact=true&theme=radical">
 
 # Skills
 
@@ -21,5 +21,5 @@ _Eu não tenho muitos projetos open-source._
 ![image](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white) ![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Discord Presence](https://lanyard.cnrad.dev/api/931623257277350008)](https://discord.com/users/931623257277350008)
+
+<img align='center'src="https://lanyard.cnrad.dev/api/931623257277350008">
