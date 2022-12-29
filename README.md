@@ -22,4 +22,4 @@ _Eu não tenho muitos projetos open-source._ <img align='right'src="https://gith
 
 
 
-<img align='center'src="https://lanyard.cnrad.dev/api/931623257277350008">
+<img align='center' src="https://lanyard.cnrad.dev/api/931623257277350008">
