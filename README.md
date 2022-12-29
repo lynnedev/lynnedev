@@ -22,11 +22,4 @@ _Eu não tenho muitos projetos open-source._ <img align='right' src="https://git
 
 
 <img align='right' src="https://lanyard.cnrad.dev/api/931623257277350008">
-<p>
 
-  
-Meu Discord é ->
-Caso necessite de ajuda 
-
-  
-</p> 
