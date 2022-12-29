@@ -4,7 +4,7 @@
 
 # Bem-vindos ao meu perfil do GitHub!
 
-_Eu não tenho muitos projetos open-source.
+_Eu não tenho muitos projetos open-source._
 
 # Skills
 
