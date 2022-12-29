@@ -23,7 +23,7 @@ _Eu não tenho muitos projetos open-source._
 <h1 align="center" style="font-family:Bahnschrift; color:#302f2f;">
 👩🏻‍💻<br>LyneDev<br>
 </h1>
-<img align='left' src="https://img.shields.io/static/v1?label=Overview&message=lynnedev&color=#302f2f;style=for-the-badge&logo=GitHub">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=lynnedev&show_icons=true&title_color=302f2f&text_color=302f2f&icon_color=302f2f&bg_color=bb86fc&cache_seconds=2300">
 
 <img align='right' src="https://lanyard.cnrad.dev/api/931623257277350008">
 
