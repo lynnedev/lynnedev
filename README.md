@@ -21,10 +21,12 @@ _Eu não tenho muitos projetos open-source._ <img align='right' src="https://git
 ![image](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white) ![image](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
 
-
+<img align='right' src="https://lanyard.cnrad.dev/api/931623257277350008">
 <p>
 
+  
 Meu Discord é ->
-Caso necessite de ajuda
+Caso necessite de ajuda 
 
-</p> <img align='right' src="https://lanyard.cnrad.dev/api/931623257277350008">
+  
+</p> 
